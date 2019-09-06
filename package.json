@@ -1,8 +1,22 @@
 {
   "name": "champions",
   "version": "1.0.0",
-  "main": "main.js",
+  "main": "src/main.js",
   "license": "MIT",
+  "description": "Generate simple id and champion json files",
+  "author": {
+    "name": "Ray",
+    "email": "dev@hiray.me",
+    "url": "https://hiray.me/"
+  },
+  "repository": {
+    "url": "https://github.com/RayZz-/lol-champions.git",
+    "type": "git"
+  },
+  "homepage": "https://github.com/RayZz-/lol-champions",
+  "bugs": {
+    "url": "https://github.com/RayZz-/lol-champions/issues"
+  },
   "dependencies": {
     "log4js": "^5.1.0",
     "request": "^2.88.0",
