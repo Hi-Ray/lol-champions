@@ -4,6 +4,9 @@
   "main": "src/main.js",
   "license": "MIT",
   "description": "Generate simple id and champion json files",
+  "scripts": {
+    "start": "node ."
+  },
   "author": {
     "name": "Ray",
     "email": "dev@hiray.me",
